@@ -1,8 +1,6 @@
-#Installation
-##cd into project folder
-#Run the command
-#to start the server
-##npm install
+#Installation cd into project folder  Run the command to start the server
+
+## npm install 
 ## npm run dev
 
 # React + TypeScript + Vite
